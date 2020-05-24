@@ -1,2 +1,2 @@
-INSERT INTO bears 
+INSERT INTO bears
   SELECT COUNT(*) FROM bears;
